@@ -1,0 +1,23 @@
+.head-time{
+    color: #fff;
+    margin-top: 12px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.noleftpadding{
+  padding-left: 0;
+}
+
+.stpadding{
+  padding:10px;
+}
+
+.none{
+	display: none;
+}
